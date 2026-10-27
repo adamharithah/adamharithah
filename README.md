@@ -1,5 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hai! Saya Adam Harith 👋</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NAMA-GATS-ANDA&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <em>Pelajar Sains Komputer & Peminat Kejuruteraan Data</em><br>
+  Membangunkan saluran paip data yang cekap, menulis utiliti C++ yang berprestasi tinggi, dan mengubah data mentah menjadi wawasan yang berstruktur.
+</p>
+
+---
+
+### 💻 Tentang Saya
+
+- 🔭 **Pembelajaran:** Saya sedang belajar asas pengaturcaraan dan GitHub.
+- 🌱 **Minat:** Berminat untuk mendalami bidang pembangunan web dan perisian.
+- ⚡ **Fakta Menarik:** Suka mencuba teknologi dan alatan baharu!
+
+---
+
+### 🛠️ Bahasa & Alatan Yang Dipelajari
+
+- **Bahasa Asas:** HTML, C++
+- **Alatan:** Git, GitHub, VS Code
+
+---
+
+### 📫 Mari Berhubung
+
+- **E-mel:** adamharith.ah@graduate.utm.my
+- **LinkedIn:** [Nama Anda](https://linkedin.com/in/your-profile)
 <!--
 **adamharithah/adamharithah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
