@@ -29,7 +29,7 @@
 ### 📫 Mari Berhubung
 
 - **E-mel:** adamharith.ah@graduate.utm.my
-- **LinkedIn:** [Nama Anda](https://linkedin.com/in/your-profile)
+- **LinkedIn:** (https://www.linkedin.com/in/adam-harith-b87972413?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 <!--
 **adamharithah/adamharithah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
